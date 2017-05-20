@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.68])
-AC_INIT([amhello], [1.0], [chengkai.me@gmail.com])
+AC_INIT([hello], [1.0], [568015633@qq.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
 AC_CONFIG_SRCDIR([src/hello.c])
